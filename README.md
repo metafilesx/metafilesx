@@ -5,6 +5,7 @@
 - 📫 How to reach me. i am on metafilesx.github.io and github.co,/metafilesx
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like coding because i want to be hacker. it seem cool.
+- https://htmlpreview.github.io/?https://github.com/metafilesx/website/blob/main/basic/index.html
 
 <!---
 metafilesx/metafilesx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
